@@ -1,0 +1,8 @@
+{
+  "name": "green-find",
+  "app_id": "806b324c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
